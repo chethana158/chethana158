@@ -22,11 +22,11 @@ B.Tech in Electronics and Communication Engineering, specializing in Data Scienc
 ---
 ### 💡 What I Bring to the Table
 
--**Languages:** C,Python,Java
--**Tools:** Excel, Power BI, Matlab, MySQL
--**Libraries:** Pandas, NumPy
--✔ Hands-on experience in **Data Science** and **Machine Learning**
--✔ Enthusiastic about Testing and Quality Assurance roles.
+- **Languages:** C,Python,Java  
+- **Tools:** Excel, Power BI, Matlab, MySQL  
+- **Libraries:** Pandas, NumPy  
+- ✔ Hands-on experience in **Data Science** and **Machine Learning**  
+- ✔ Enthusiastic about Testing and Quality Assurance roles.  
 
 ---
 ### 🚀 Exciting News!
